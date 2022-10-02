@@ -12,7 +12,6 @@ This function will take two arguments, `string` and `num`.
 
 You will notice in this exercise that there are multiple tests (see in file `repeatString.spec.js`). Only the first test is currently enabled. So after making sure that this first one passes, enable the others one by one by deleting the `.skip` from the `test.skip()` function.
 
-
 ## Hints
 
 - Take note of the above function call- how exactly is it being called?
